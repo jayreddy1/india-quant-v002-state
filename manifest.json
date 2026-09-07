@@ -1,12 +1,12 @@
 {
   "completed_review_count": 1,
-  "created_at": "2026-08-29T05:25:02+00:00",
-  "encrypted_blob_sha256": "5d19f4cdcad82949971e7238ab5bd02c8941c83e7d531d3116e3299023cf511d",
-  "last_processed_session": "2026-08-28",
-  "manifest_hash": "ba7339b01ea6ebbab1adfbc0f8ab7088bf59c829f24a52e838c68aa01381b53e",
-  "plaintext_archive_sha256": "54a2cde8b9775d26c4129c6dd66b816a451b32894dbc56251ace647f96c2bc9c",
+  "created_at": "2026-09-07T15:05:01+00:00",
+  "encrypted_blob_sha256": "9015b8906cf3daf527c85b3f6b43b81d740899ccdcb65b598d22fe444115b3d6",
+  "last_processed_session": "2026-09-04",
+  "manifest_hash": "2ef23bf8a2e31741f9043f98704114684fa8a6039b4ac9d66450ff0435c0a157",
+  "plaintext_archive_sha256": "d6ee2b30943e744a1afe13e43799baabbc25a8361ab0cd75c80e7386c8dca965",
   "protocol_hash": "79a96d589060c142dfd647e84c3200dfec5236ccbec2a5f925b119bac9b65a3d",
   "protocol_id": "XS_ECONOMIC_PROTOCOL_V002",
   "schema_version": "v002-state-manifest-v001",
-  "source_commit_sha": "9559ddf42d3403c0529f76a726fd7cbe92830ba4"
+  "source_commit_sha": "7e088eea3ef550006657a27b0cca92161a9197fc"
 }
